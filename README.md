@@ -1,4 +1,4 @@
-# Sony Ericsson Xperia X8
+# Sony Ericsson Xperia X8 (Kernels)
 ![Sony Ericsson Xperia X8](Phone.jpg)
 
 ## nAa ([XDA Link](https://xdaforums.com/t/kernel-2-6-32-61-naa-jb-06-6-7-2013-new-wifi-usb-unified-kernel-cwm-recovery.2136211/))
