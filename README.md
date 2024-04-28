@@ -18,3 +18,8 @@
 * E15_nAa-ics-04_2.6.29.6-nAa-ics-04
     * Checksum: 01e5d3a61c28a36d3b3d86d522b3c5a6
     * Date: 2012-07-05
+
+## XPerience ([XDA Link](https://xdaforums.com/t/kernel-gb-ics-jb-kk-2-6-32-63-xperience-kk06-01-08-2014.2700749/))
+* 2.6.32.63-XPerience-KK06
+    * Checksum: 22569e83e77f977510e7db18a5f80034
+    * Date: 2014-08-01
