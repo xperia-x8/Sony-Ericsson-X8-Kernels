@@ -13,3 +13,8 @@
 * E15_nAa-14_2.6.29.6-nAa-14
     * Checksum: 0c180a2e577847f1f6b92c283e51f03c
     * Date: 2012-08-23
+
+## nAa-ics-04 ([XDA Link](https://xdaforums.com/t/kernel-2-6-29-6-naa-ics-04-5-7-12-custom-ics-kernel-cwm-recovery.1576002/))
+* E15_nAa-ics-04_2.6.29.6-nAa-ics-04
+    * Checksum: 01e5d3a61c28a36d3b3d86d522b3c5a6
+    * Date: 2012-07-05
