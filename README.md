@@ -5,6 +5,7 @@
 * https://disk.yandex.ru/d/mohmGC3iCYZjWw
 * https://drive.google.com/file/d/1TFWW_LQrl4IxPLdZJmTBRi5r-ieAfKAc/view?usp=sharing
 * https://www.mediafire.com/file/zjrdtcp0jml3r84/Sony-Ericsson-X8-Kernels-1.0.0.zip/file
+* https://4pda.to/forum/index.php?showtopic=193410&view=findpost&p=129930972
 
 ## nAa ([XDA Link](https://xdaforums.com/t/kernel-2-6-32-61-naa-jb-06-6-7-2013-new-wifi-usb-unified-kernel-cwm-recovery.2136211/))
 * E15_2.6.32.60-nAa-05
